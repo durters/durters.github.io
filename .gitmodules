@@ -1,0 +1,3 @@
+[submodule "jekyll-bootstrap"]
+	path = jekyll-bootstrap
+	url = https://github.com/durters/jekyll-bootstrap.git
